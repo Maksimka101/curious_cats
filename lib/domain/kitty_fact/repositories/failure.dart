@@ -1,0 +1,3 @@
+class KittyFactLoadFailure {
+  const KittyFactLoadFailure();
+}

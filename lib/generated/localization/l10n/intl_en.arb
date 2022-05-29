@@ -1,0 +1,10 @@
+{
+  "randomFactScreen": "Random Fact",
+  "curiousFact": "Curious Fact",
+  "factsHistoryScreen": "Facts History",
+  "genericErrorMessage": "Something went wrong, please try again later",
+  "genericRetry": "Retry",
+  "refreshFactButton": "Another fact!",
+  "factsHistoryTab": "Facts history",
+  "randomFactTab": "Random fact"
+}
